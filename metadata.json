@@ -1,0 +1,6 @@
+{
+  "name": "Прованс • Цветы и десерты",
+  "description": "Интерактивная витрина-каталог с корзиной для цветочного салона и кафе «Прованс & Сластёна» (Telegram Mini App и мобильный веб).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
